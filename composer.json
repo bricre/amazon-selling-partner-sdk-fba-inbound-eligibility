@@ -1,6 +1,5 @@
 {
   "name": "bricre/amazon-selling-partner-sdk-fba-inbound-eligibility",
-  "version": "v1",
   "description": "API client generated from OpenAPI definition from Amazon Selling Partner API for FBA Inbound Eligibilty",
   "minimum-stability": "stable",
   "license": "Apache-2.0",
